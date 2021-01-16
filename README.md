@@ -15,7 +15,7 @@ Contributors
 
 
 
-** Background**
+Background
 ---
 
 9/9/2014 Apple announce Apple Pay mobile payments.  
@@ -28,7 +28,7 @@ Some competitors:
 3 Stripe connect
 4 Payoneer
 
-**Technology**
+Technology
 --- 
 Apple Pay uses Near field communication.  It's  used to allow for contactless payments When you use Apple Pay in stores that accept contactless payments, Apple Pay uses Near Field Communication (NFC) technology between your device and the payment terminal. 
 
