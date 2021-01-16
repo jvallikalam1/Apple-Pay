@@ -1,5 +1,4 @@
 # Apple-Pay
-# Apple-Pay
  # Apple Pay Case Study 
 ---
 ![apple pay](image.jpg)
