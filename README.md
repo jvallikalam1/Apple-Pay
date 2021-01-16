@@ -1,4 +1,4 @@
 # Apple-Pay
-# H1 Apple Pay Case Study
+<h1> Apple Pay Case Study </h1>
 ![alt text](download.png)
 ## H2
